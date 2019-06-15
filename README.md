@@ -1,4 +1,4 @@
-# Frontal face-detect
+# Frontal-face-detect
 Frontal face detect with dlib
 
 ```
