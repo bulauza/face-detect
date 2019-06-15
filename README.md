@@ -2,6 +2,6 @@
 face detect with dlib
 
 ```
-$ bash setup_dlib.bash
+$ bash setup_dlib.sh
 $ python face_detector.py
 ```
