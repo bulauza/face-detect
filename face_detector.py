@@ -25,7 +25,7 @@ def main(args):
     cap = cv2.VideoCapture(args.video_source)
 
     font = cv2.FONT_HERSHEY_SIMPLEX
-    predictor_path = "./shape_predictor_68_face_landmarks.dat"
+    #predictor_path = "./shape_predictor_68_face_landmarks.dat"
 
     detector = dlib.get_frontal_face_detector()
 
