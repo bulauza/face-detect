@@ -1,5 +1,5 @@
-# face-detect
-face detect with dlib
+# Frontal face-detect
+Frontal face detect with dlib
 
 ```
 $ bash setup_dlib.sh
