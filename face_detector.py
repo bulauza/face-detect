@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# cording=utf-8
+# coding=utf-8
 
 '''
 face_detector.py
@@ -37,6 +37,7 @@ def main(args):
 
         # face detecte
         start = time.time()
+
         dets = detector(frame, 1)
         elapsed_time = time.time() - start
         print ("detector processing time:{:.2f} [sec]".format(elapsed_time))
